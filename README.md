@@ -16,7 +16,15 @@ utility and turns its command-line workflow into a friendly point-and-click expe
 
 ---
 
+## Screenshot
+
+[![vGPU License Manager — glass GUI screenshot](https://raw.githubusercontent.com/AncientMystic/nvlts-GUI-vGPU-License-Manager/main/screenshots/vGPU-manager.jpg)](https://github.com/AncientMystic/nvlts-GUI-vGPU-License-Manager/blob/main/screenshots/vGPU-manager.jpg)
+
+---
+
 ## Table of contents
+
+- [Screenshot](#screenshot)
 
 - [What this is](#what-this-is)
 - [What it does (features)](#what-it-does-features)
